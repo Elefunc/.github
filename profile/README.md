@@ -1,1 +1,2 @@
-# Elemental Functions for a Better Web
+# Elemental functions
+### to supercharge the web
